@@ -1,1 +1,2 @@
 Feature 3 file
+Feature 3 update
